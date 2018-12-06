@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CECD2C4F-4ED6-070C-28FF-DE94CBEAD8BE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "XWZClimbSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
